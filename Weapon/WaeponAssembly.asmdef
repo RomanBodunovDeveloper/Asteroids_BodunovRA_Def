@@ -1,0 +1,17 @@
+{
+    "name": "WeaponAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ad86bb1ee5be9ed4cb5c2d6bd7bc8015",
+        "GUID:2405eb20e02deff48b2c4af2c9a229ab"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
